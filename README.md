@@ -3,6 +3,13 @@
 ## By Nick Riasanovsky
 ### Project TA: Suvansh Sanjeev
 
+## Updates
+
+This section will contain any updates to the Spec/Project since its release
+
+  * Friday June 22nd 11:25 AM: Updated Makefile to change how the CUnit Library is linked. This lets CUnit be run on the hive machines.
+
+
 ## Summary
 This project is to construct a simple chatroom in C. It consists of two main parts: a server and a client both built in C. The communication is implemented via TCP sockets using the C socket interface. This is already implemented for you and is not the focus of this project (these are covered in both cs 168 and cs 162). Instead the focus of this project will be interacting with C strings, interacting with files, dealing with C memory management, interacting with the C standard library, and completing something relatively cool. To do this you will need to make modifications to both the client and the server.
 
