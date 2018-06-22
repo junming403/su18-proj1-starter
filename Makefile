@@ -1,6 +1,8 @@
 COMPILER = gcc
 
-FLAGS = -g -Wall -std=c99 
+FLAGS = -g -Wall -std=c99
+
+TESTING_FLAGS = -g -Wall -std=c99
 
 CUNIT = -L/home/ff/cs61c/cunit/install/lib -I/home/ff/cs61c/cunit/install/include -lcunit
 
