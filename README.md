@@ -5,7 +5,13 @@
 
 ## Updates
 
-This section will contain any updates to the Spec/Project since its release
+This section will contain any updates to the Spec/Project since its release. To obtain these updates run the command:
+
+```git pull proj1-starter```
+
+If you pull the starter code after the time of the update you will not need to pull the starter code to get the updates. Please follow the setup instructions to get started.
+
+Changes since release:
 
   * Friday June 22nd 11:25 AM: Updated Makefile to change how the CUnit Library is linked. This lets CUnit be run on the hive machines.
 
